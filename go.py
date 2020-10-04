@@ -10,7 +10,7 @@ def primos():
 	
 
 	p = 1
-	numero = 3 
+	numero = 3
 	primos = "2,"
 	
 	while p < limite:
