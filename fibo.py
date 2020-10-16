@@ -8,7 +8,7 @@ app = Flask(__name__)
 def nao_entre_em_panico():
   proximo = 1
   anterior = 0
-  limite = 50
+  limite = 100
   found = 0
   resposta = "0, "
 
